@@ -16,6 +16,8 @@ Triangles are warnings
 
 Squares are information
 
+With Flow means traffic is going with the flow. Contraflow means traffic is going against the flow
+
 ### Triangle Signs
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
