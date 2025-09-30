@@ -20,8 +20,11 @@ Squares are information
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
 
-### Waiting Restrictions
+## Waiting Restrictions
 ![Waiting Restrictions](./waiting-restrictions-apply.png)
 
-### With Flow Bus And Cycle Lane
+## With Flow Bus And Cycle Lane
 ![With Flow Bus And Cycle Lane](./with-flow-bus-and-cycle-lane.png)
+
+## Contraflow Bus Lane
+![Contraflow Bus Lane](contraflow-bus-lane-road-sign.png)
