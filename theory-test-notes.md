@@ -27,4 +27,4 @@ Squares are information
 ![With Flow Bus And Cycle Lane](./with-flow-bus-and-cycle-lane.png)
 
 ## Contraflow Bus Lane
-![Contraflow Bus Lane](contraflow-bus-lane-road-sign.png)
+![Contraflow Bus Lane](contraflow-bus-lane.png)
