@@ -10,6 +10,12 @@ If the answer is something other than dipped headlights, there will be a clue in
 
 95% off red circles are "NOs"
 
+Blue Circles mean do it this way/ mandatory
+
+Triangles are warnings
+
+Squares are information
+
 ### Triangle Signs
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
