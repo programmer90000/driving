@@ -10,3 +10,7 @@ The 2-click method:
 1. As soon as I see the problem, click once
 2. Count 2 seconds
 3. Click again
+
+I need to click when anything will cause me to:
+- Slow down
+- Change direction
