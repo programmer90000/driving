@@ -6,6 +6,12 @@ The question/ answer may call it headlights instead of dipped headlights.
 
 If the answer is something other than dipped headlights, there will be a clue in the question, such as parking
 
+# Questions about road markings
+
+Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
+
+Long white lines in the middle of the road (long dashes with short gaps) warn of a hazard ahead such as a junction or sharp bend ahead 
+
 # Questions About Road Signs
 
 95% off red circles are "NOs"
