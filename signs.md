@@ -43,6 +43,9 @@ Yellow background, black image means diversion
 ## Crawler Lane For Heavy And Slow Viechles
 ![Crawler Lane For Heavy And Slow Viechles](crawler-lane.png)
 
+## Level Crossing With Gate Or Barrier
+![Level Crossing With Gate Or Barrier](level-crossing-with-gate-or-barrier.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
