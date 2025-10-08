@@ -1,5 +1,3 @@
-
-
 # Questions about motorway road studs
 
 White - Lane Dividers
