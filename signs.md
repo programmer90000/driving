@@ -12,6 +12,8 @@ With Flow means traffic is going with the flow. Contraflow means traffic is goin
 
 Yellow background, black image means diversion
 
+Level Crossing means a train is crossing
+
 ### Triangle Signs
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
