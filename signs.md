@@ -19,71 +19,71 @@ Level Crossing means a train is crossing
 - Upside Down White Triangle With Red Border = **Give Way**
 
 ## Waiting Restrictions
-![Waiting Restrictions](./waiting-restrictions-apply.png)
+![Waiting Restrictions](signs/waiting-restrictions-apply.png)
 
 ## With Flow Bus And Cycle Lane
-![With Flow Bus And Cycle Lane](./with-flow-bus-and-cycle-lane.png)
+![With Flow Bus And Cycle Lane](signs/with-flow-bus-and-cycle-lane.png)
 
 ## Contraflow Bus Lane
-![Contraflow Bus Lane](contraflow-bus-lane.png)
+![Contraflow Bus Lane](signs/contraflow-bus-lane.png)
 
 ## Water coming up ahead
-![Water coming up ahead](ford.jpeg)
+![Water coming up ahead](signs/ford.jpeg)
 
 ## Carry On And Leave The Mortorway At The Next Exit
-![Carry On And Leave The Mortorway At The Next Exit](carry-on-and-leave-the-mortorway-at-the-next-exit.png)
+![Carry On And Leave The Mortorway At The Next Exit](signs/carry-on-and-leave-the-mortorway-at-the-next-exit.png)
 
 ## Diversion
-![Diversion](diversion.png)
+![Diversion](signs/diversion.png)
 
 ## Temporary Maximum Speed
-![Temporary Maximum Speed](temporary-maximum-speed.jpg)
+![Temporary Maximum Speed](signs/temporary-maximum-speed.jpg)
 
 ## Park And Ride Car Park
-![Park And Ride Car Park](park-and-ride-car-park.png)
+![Park And Ride Car Park](signs/park-and-ride-car-park.png)
 
 ## Crawler Lane For Heavy And Slow Viechles
-![Crawler Lane For Heavy And Slow Viechles](crawler-lane.png)
+![Crawler Lane For Heavy And Slow Viechles](signs/crawler-lane.png)
 
 ## Level Crossing With Gate Or Barrier
-![Level Crossing With Gate Or Barrier](level-crossing-with-gate-or-barrier.png)
+![Level Crossing With Gate Or Barrier](signs/level-crossing-with-gate-or-barrier.png)
 
 ## Viechles May Park Fully On The Verge Or Fotway
-![Viechles May Park Fully On The Verge Or Fotway](viechles-may-park-fully-on-the-verge-or-fotway.jpg)
+![Viechles May Park Fully On The Verge Or Fotway](signs/viechles-may-park-fully-on-the-verge-or-fotway.jpg)
 
 ## No Motor Viechles
-![No Motor Viechles](no-motor-viecheles.png)
+![No Motor Viechles](signs/no-motor-viecheles.png)
 
 ## Road Narrows On Both Sides
-![Road Narrows On Both Sides](road-narrows-on-both-sides.png)
+![Road Narrows On Both Sides](signs/road-narrows-on-both-sides.png)
 
 ## End Of Dual Carrigeway
-![End Of Dual Carrigeway](end-of-dual-carrigeway.png)
+![End Of Dual Carrigeway](signs/end-of-dual-carrigeway.png)
 
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
-![Get back to the left as soon as its safe to do so](get-back-to-the-left.png)
+![Get back to the left as soon as its safe to do so](signs/get-back-to-the-left.png)
 
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
-![Turn Left Arm Signal](turn-left-arm-signal.jpeg)
+![Turn Left Arm Signal](signs/turn-left-arm-signal.jpeg)
 
 ## Turn Right Arm Signal
-![Turn Right Arm Signal](turn-right-arm-signal.jpg)
+![Turn Right Arm Signal](signs/turn-right-arm-signal.jpg)
 
 ## Slow Down Or Stop Arm Signal
-![Slow Down Or Stop Arm Signal](slow-down-or-stop-arm-signal.jpg)
+![Slow Down Or Stop Arm Signal](signs/slow-down-or-stop-arm-signal.jpg)
 
 # Questions About Lights
 
 ## Hazard Lights
-![Hazard Lights](hazard-lights.png)
+![Hazard Lights](signs/hazard-lights.png)
 
 ## Reverse Lights
-![Reverse Lights](reverse-lights.jpg)
+![Reverse Lights](signs/reverse-lights.jpg)
 
 ## Brake Lights
 
-![Brake Lights](brake-lights.jpg)
+![Brake Lights](signs/brake-lights.jpg)
