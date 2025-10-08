@@ -1,8 +1,4 @@
-# Questions about road markings
 
-Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
-
-Long white lines in the middle of the road (long dashes with short gaps) warn of a hazard ahead such as a junction or sharp bend ahead 
 
 # Questions about motorway road studs
 

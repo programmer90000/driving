@@ -60,11 +60,6 @@ Level Crossing means a train is crossing
 ## End Of Dual Carrigeway
 ![End Of Dual Carrigeway](signs/end-of-dual-carrigeway.png)
 
-# Questions About Signs On The Road
-
-## Get Back To The Left As Soon As It's Safe To Do So
-![Get back to the left as soon as its safe to do so](signs/get-back-to-the-left.png)
-
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
