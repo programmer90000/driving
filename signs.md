@@ -54,6 +54,12 @@ Level Crossing means a train is crossing
 ## No Motor Viechles
 ![No Motor Viechles](no-motor-viecheles.png)
 
+## Road Narrows On Both Sides
+![Road Narrows On Both Sides](road-narrows-on-both-sides.png)
+
+## End Of Dual Carrigeway
+![End Of Dual Carrigeway](end-of-dual-carrigeway.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
