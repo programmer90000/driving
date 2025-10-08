@@ -37,6 +37,9 @@ Yellow background, black image means diversion
 ## Temporary Maximum Speed
 ![Temporary Maximum Speed](temporary-maximum-speed.jpg)
 
+## Park And Ride Car Park
+![Park And Ride Car Park](park-and-ride-car-park.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
