@@ -4,7 +4,7 @@
 
 Blue Circles mean do it this way/ mandatory
 
-Triangles are warnings
+Triangles are warnings. It means you need to check your mirrors
 
 Squares are information
 
