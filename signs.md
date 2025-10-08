@@ -51,6 +51,9 @@ Level Crossing means a train is crossing
 ## Viechles May Park Fully On The Verge Or Fotway
 ![Viechles May Park Fully On The Verge Or Fotway](viechles-may-park-fully-on-the-verge-or-fotway.jpg)
 
+## No Motor Viechles
+![No Motor Viechles](no-motor-viecheles.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
