@@ -75,15 +75,3 @@ Level Crossing means a train is crossing
 
 ## Slow Down Or Stop Arm Signal
 ![Slow Down Or Stop Arm Signal](signs/slow-down-or-stop-arm-signal.jpg)
-
-# Questions About Lights
-
-## Hazard Lights
-![Hazard Lights](signs/hazard-lights.png)
-
-## Reverse Lights
-![Reverse Lights](signs/reverse-lights.jpg)
-
-## Brake Lights
-
-![Brake Lights](signs/brake-lights.jpg)

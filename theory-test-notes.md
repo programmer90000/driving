@@ -1,11 +1,3 @@
-# Questions About Lights
-
-If I need to use lights, it is always dipped headlights.
-
-The question/ answer may call it headlights instead of dipped headlights.
-
-If the answer is something other than dipped headlights, there will be a clue in the question, such as parking
-
 # Questions about road markings
 
 Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
