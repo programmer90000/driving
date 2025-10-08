@@ -34,6 +34,9 @@ Yellow background, black image means diversion
 ## Diversion
 ![Diversion](diversion.png)
 
+## Temporary Maximum Speed
+![Temporary Maximum Speed](temporary-maximum-speed.jpg)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
