@@ -31,6 +31,9 @@ Yellow background, black image means diversion
 ## Carry On And Leave The Mortorway At The Next Exit
 ![Carry On And Leave The Mortorway At The Next Exit](carry-on-and-leave-the-mortorway-at-the-next-exit.png)
 
+## Diversion
+![Diversion](diversion.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
