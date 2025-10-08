@@ -35,3 +35,6 @@ Yellow background, black image means diversion
 
 ## Turn Right Arm Signal
 ![Turn Right Arm Signal](turn-right-arm-signal.jpg)
+
+## Slow Down Or Stop Arm Signal
+![Slow Down Or Stop Arm Signal](slow-down-or-stop-arm-signal.jpg)
