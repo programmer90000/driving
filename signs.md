@@ -46,3 +46,7 @@ Yellow background, black image means diversion
 
 ## Reverse Lights
 ![Reverse Lights](reverse-lights.jpg)
+
+## Brake Lights
+
+![Brake Lights](brake-lights.jpg)
