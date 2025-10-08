@@ -40,6 +40,9 @@ Yellow background, black image means diversion
 ## Park And Ride Car Park
 ![Park And Ride Car Park](park-and-ride-car-park.png)
 
+## Crawler Lane For Heavy And Slow Viechles
+![Crawler Lane For Heavy And Slow Viechles](crawler-lane.png)
+
 # Questions About Signs On The Road
 
 ## Get Back To The Left As Soon As It's Safe To Do So
