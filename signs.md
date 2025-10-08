@@ -28,6 +28,11 @@ Yellow background, black image means diversion
 ## Water coming up ahead
 ![Water coming up ahead](ford.jpeg)
 
+# Questions About Signs On The Road
+
+## Get Back To The Left As Soon As It's Safe To Do So
+![Get back to the left as soon as its safe to do so](get-back-to-the-left.png)
+
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
