@@ -38,3 +38,8 @@ Yellow background, black image means diversion
 
 ## Slow Down Or Stop Arm Signal
 ![Slow Down Or Stop Arm Signal](slow-down-or-stop-arm-signal.jpg)
+
+# Questions About Lights
+
+## Hazard Lights
+![Hazard Lights](hazard-lights.png)
