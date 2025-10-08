@@ -60,6 +60,9 @@ Level Crossing means a train is crossing
 ## End Of Dual Carrigeway
 ![End Of Dual Carrigeway](signs/end-of-dual-carrigeway.png)
 
+## Hump Bridge
+![Hump Bridge](images/hump-bridge.jpg)
+
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
