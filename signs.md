@@ -22,7 +22,7 @@ Level Crossing means a train is crossing
 ![Waiting Restrictions](images/waiting-restrictions-apply.png)
 
 ## With Flow Bus And Cycle Lane
-![With Flow Bus And Cycle Lane](signs/with-flow-bus-and-cycle-lane.png)
+![With Flow Bus And Cycle Lane](images/with-flow-bus-and-cycle-lane.png)
 
 ## Contraflow Bus Lane
 ![Contraflow Bus Lane](images/contraflow-bus-lane.png)
