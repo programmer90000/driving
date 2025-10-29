@@ -56,3 +56,10 @@ Before doing anything, I need to check the mirrors and blind spot
 5. Move the gearstick to neutral
 6. Let go of the parking brake
 7. Turn off the engine
+
+# Routine for turning from a junction
+1. Mirrors
+2. Signal
+3. Position
+4. Looking and slowing accordingly
+5. Gear
