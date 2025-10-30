@@ -26,7 +26,7 @@
 *   Signalling down is left
 
 # How to drive
-
+---
 ## How to start the car
 ---
 1. Push the seat forward or backwards until I am in a good position
