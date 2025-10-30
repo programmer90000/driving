@@ -28,6 +28,7 @@
 # How to drive
 
 ## How to start the car
+---
 1. Push the seat forward or backwards until I am in a good position
 2. Fasten the seatbelt
 3. Adjust the mirrors. I should be able to see almost all of the back window from the main mirror. I should be able to see the car handles and the road from the side mirrors
@@ -47,12 +48,14 @@
 17. As you gain speed, shift up through the gears
 
 ## How to stop the car temporarily
+---
 1. Let go of the gas pedal
 2. Press the clutch pedal fully. Slowly press the brake pedal until the car stops
 3. If it is downhill, use the brake to hold the car
 4. If it is uphill, use the clutch to hold the car
 
 ## How to park the car
+---
 1. Let go of the gas
 2. If the car doesn't stop on its own, press the brake slightly
 3. Once the car has stopped, keep my foot on the brake
@@ -64,6 +67,7 @@
 9. Turn off the engine
 
 ## Routine for turning from a junction
+---
 1. Mirrors
 2. Signal
 3. Position
@@ -71,6 +75,7 @@
 5. Gear
 
 ## How to turn from the main junction into the side road
+---
 1. Look at all of the mirrors
 2. Signal
 3. Position slightly to the right
