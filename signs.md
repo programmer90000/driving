@@ -63,6 +63,10 @@ Level Crossing means a train is crossing
 ## Hump Bridge
 ![Hump Bridge](images/hump-bridge.jpg)
 
+## Humps For Number Of Miles
+![Humps For Number Of Miles](images/humps-for-distance.gif)
+
+
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
