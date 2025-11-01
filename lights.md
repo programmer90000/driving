@@ -6,6 +6,8 @@ The question/ answer may call it headlights instead of dipped headlights.
 
 If the answer is something other than dipped headlights, there will be a clue in the question, such as parking
 
+It is only allowed to flash your headlights to warn other drivers of your presence. It is not allowed to flash your headlights for any other reason
+
 ## Hazard Lights
 ![Hazard Lights](images/hazard-lights.png)
 
