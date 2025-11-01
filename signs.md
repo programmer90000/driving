@@ -14,6 +14,8 @@ Yellow background, black image means diversion
 
 Level Crossing means a train is crossing
 
+Variable Message signs are signs which are displayed digitally, meaning the message can be changed in an instant remotely
+
 ### Triangle Signs
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
