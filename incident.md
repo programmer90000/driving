@@ -1,0 +1,1 @@
+It isn't allowed to offer food or drink at an incident
