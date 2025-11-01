@@ -15,7 +15,7 @@
 *   When going downhill, use the break to control the car
 *   When going uphill, use the clutch to control the car
 
-# Car Control Locations
+# Car Controls Locations
 ---
 *   Signalling up/down is left of the wheel
 *   Wipers are right side of the wheel
