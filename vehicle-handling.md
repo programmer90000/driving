@@ -32,8 +32,8 @@
 ### Key Principles for the Test:
 *   **Block Gear Changing:** The test expects you to know this. It means skipping gears (e.g., changing from 5th to 3rd, or 4th to 2nd) when slowing down. This improves control and reduces wear on the brakes and clutch.
 *   **When to Change Gear:** Change gear to match the engine's workload and speed.
-    *   **Going Uphill:** You may need a lower gear to maintain speed.
-    *   **Going Downhill:** Select a lower gear to use **engine braking** and avoid relying solely on the brakes.
+    *   **Going Uphill:** You may need a **lower** gear to maintain speed.
+    *   **Going Downhill:** Select a **lower** gear to use **engine braking** and avoid relying solely on the brakes.
 *   **Coasting:** **NEVER** coast (rolling in neutral or with the clutch down). It's dangerous because:
     *   You have less control.
     *   You cannot accelerate out of a dangerous situation.
