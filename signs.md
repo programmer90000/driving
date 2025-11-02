@@ -1,12 +1,15 @@
 # Questions About Road Signs
 
-95% off red circles are "NOs"
+**Red Circles** = Prohibition (What you MUST NOT do)
 
-Blue Circles mean do it this way/ mandatory
+**Blue Circles** = Mandatory (What you MUST do)
 
-Triangles are warnings. It means you need to check your mirrors
+**Triangles** = Warnings
 
-Squares are information
+**Rectangles** = Information
+
+**Octagon** = STOP sign
+
 
 With Flow means traffic is going with the flow. Contraflow means traffic is going against the flow
 
