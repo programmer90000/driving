@@ -27,6 +27,7 @@
   | 50 mph | 15 metres | 38 metres | **53 metres** (13 car lengths) |
   | 60 mph | 18 metres | 55 metres | **73 metres** (18 car lengths) |
   | 70 mph | 21 metres | 75 metres | **96 metres** (24 car lengths) |
+  
   **Key point:** When you double your speed, your braking distance increases by about **four times**.
 
 ---
