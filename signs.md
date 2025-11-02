@@ -61,7 +61,7 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ![Temporary Maximum Speed](images/temporary-maximum-speed.jpg)
 
 ## National Speed Limit
-![National Speed Limit]
+![National Speed Limit](images/national-speed-limit.png)
 
 ## Park And Ride Car Park
 ![Park And Ride Car Park](images/park-and-ride-car-park.png)
