@@ -36,11 +36,11 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
 
+## No Waiting
+![No Waiting](images/no-waiting.png)
+
 ## No Stopping
 ![No Stopping](images/no-stopping.png)
-
-## No Waiting
-![No Waiting]
 
 ## With Flow Bus And Cycle Lane
 ![With Flow Bus And Cycle Lane](images/with-flow-bus-and-cycle-lane.png)
