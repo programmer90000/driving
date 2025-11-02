@@ -36,8 +36,11 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 - Right Way White Triangle With Red Border = **Warnings**
 - Upside Down White Triangle With Red Border = **Give Way**
 
-## Waiting Restrictions
-![Waiting Restrictions](images/waiting-restrictions-apply.png)
+## No Stopping
+![No Stopping](images/no-stopping.png)
+
+## No Waiting
+![No Waiting]
 
 ## With Flow Bus And Cycle Lane
 ![With Flow Bus And Cycle Lane](images/with-flow-bus-and-cycle-lane.png)
@@ -57,8 +60,14 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ## Temporary Maximum Speed
 ![Temporary Maximum Speed](images/temporary-maximum-speed.jpg)
 
+## National Speed Limit
+![National Speed Limit]
+
 ## Park And Ride Car Park
 ![Park And Ride Car Park](images/park-and-ride-car-park.png)
+
+## Motorways Start/ Stop
+![Motorway Start/ Stop]
 
 ## Crawler Lane For Heavy And Slow Viechles
 ![Crawler Lane For Heavy And Slow Viechles](images/crawler-lane.png)
@@ -72,6 +81,9 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ## No Motor Viechles
 ![No Motor Viechles](images/no-motor-viecheles.png)
 
+## No Overtaking
+![No Overtaking]
+
 ## Road Narrows On Both Sides
 ![Road Narrows On Both Sides](images/road-narrows-on-both-sides.png)
 
@@ -84,6 +96,11 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ## Humps For Number Of Miles
 ![Humps For Number Of Miles](images/humps-for-distance.gif)
 
+## Roundabout
+![Roundabout]
+
+## Mini Roundabout
+![Mini Roundabout]
 
 # Questions About Arm Signals
 
