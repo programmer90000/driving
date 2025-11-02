@@ -3,8 +3,8 @@
 ## Stopping Distances
 
 ### The Two-Second Rule
-    - This is the **minimum** safe gap you should leave between you and the vehicle in front in good, dry conditions.
-    - This is a rule for **dry conditions** and a **safe separation distance while moving**.
+  - This is the **minimum** safe gap you should leave between you and the vehicle in front in good, dry conditions.
+  - This is a rule for **dry conditions** and a **safe separation distance while moving**.
 
 ### Overall Stopping Distance
     This is the total distance your car travels from the moment you see a hazard to the moment your vehicle stops. It is made up of two parts:
