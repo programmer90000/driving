@@ -12,6 +12,18 @@
 
 ---
 
+Speed limit signs (circular with red border)
+
+Stop vs Give Way signs (octagon vs upside-down triangle)
+
+Motorway signs (blue background)
+
+Primary route signs (green background)
+
+Secondary route signs (white background)
+
+---
+
 With Flow means traffic is going with the flow. Contraflow means traffic is going against the flow
 
 Yellow background, black image means diversion
