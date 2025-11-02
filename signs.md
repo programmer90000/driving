@@ -67,7 +67,7 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ![Park And Ride Car Park](images/park-and-ride-car-park.png)
 
 ## Motorways Start
-![motorway-start]
+![motorway-start](images/start-of-motorway.png)
 
 ## Motorways Stop
 ![Motorway Stop](images/end-of-motorway.png)
