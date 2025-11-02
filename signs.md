@@ -14,15 +14,15 @@
 
 ---
 
-Speed limit signs (circular with red border)
+**Speed limit signs** = Circular with red border
 
-Stop vs Give Way signs (octagon vs upside-down triangle)
+**Stop Sign** = Octagon
 
-Motorway signs (blue background)
+**Motorway signs** = Blue background
 
-Primary route signs (green background)
+**Primary route signs** = Green background
 
-Secondary route signs (white background)
+**Secondary route signs** = White background
 
 ---
 
@@ -33,6 +33,8 @@ Yellow background, black image means diversion
 Level Crossing means a train is crossing
 
 Variable Message signs are signs which are displayed digitally, meaning the message can be changed in an instant remotely
+
+---
 
 ## No Waiting
 ![No Waiting](images/no-waiting.png)
