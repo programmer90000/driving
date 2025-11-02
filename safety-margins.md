@@ -19,15 +19,15 @@
 
 ### Stopping Distance Table (for the test)
   Memorise these typical distances for a car in good condition on a dry road. The test will expect you to know these figures.
-    | Speed | Thinking Distance | Braking Distance | **Total Stopping Distance** |
-    | :--- | :--- | :--- | :--- |
-    | 20 mph | 6 metres | 6 metres | **12 metres** (3 car lengths) |
-    | 30 mph | 9 metres | 14 metres | **23 metres** (6 car lengths) |
-    | 40 mph | 12 metres | 24 metres | **36 metres** (9 car lengths) |
-    | 50 mph | 15 metres | 38 metres | **53 metres** (13 car lengths) |
-    | 60 mph | 18 metres | 55 metres | **73 metres** (18 car lengths) |
-    | 70 mph | 21 metres | 75 metres | **96 metres** (24 car lengths) |
-    **Key point:** When you double your speed, your braking distance increases by about **four times**.
+  | Speed | Thinking Distance | Braking Distance | **Total Stopping Distance** |
+  | :--- | :--- | :--- | :--- |
+  | 20 mph | 6 metres | 6 metres | **12 metres** (3 car lengths) |
+  | 30 mph | 9 metres | 14 metres | **23 metres** (6 car lengths) |
+  | 40 mph | 12 metres | 24 metres | **36 metres** (9 car lengths) |
+  | 50 mph | 15 metres | 38 metres | **53 metres** (13 car lengths) |
+  | 60 mph | 18 metres | 55 metres | **73 metres** (18 car lengths) |
+  | 70 mph | 21 metres | 75 metres | **96 metres** (24 car lengths) |
+  **Key point:** When you double your speed, your braking distance increases by about **four times**.
 
 ---
 
