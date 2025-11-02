@@ -36,6 +36,55 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 
 ---
 
+## Bridges
+
+### Hump Bridge
+A bridge where you can't see the other side of it until you are on top of it 
+
+### Level Crossing
+A place where a train track and the road crosses
+
+### Weak Bridge
+A bridge which is weak and trollies may not be able to go over
+
+### Low Bridge
+A bridge which has a low height and large viechles can't go inside 
+
+### Swing Bridge
+A bridge which can be swung. For example, a bridge over water which can be swung to allow boats to cross
+
+### Narrow Bridge
+A bridge which is narrow and wide viechles can't go inside
+
+---
+
+## Crossings
+
+# Pelican Crossing
+Traffic Lights with buttons to make the lights red. After the red light, there is flashing amber lights 
+
+# Puffin Crossing
+Same as pelican crossing but with sensors to detect if someone is walking, instead of flashing amber lights
+
+# Toucan Crossing
+Same as pelican crossing but it allows cyclists to cross without getting off the bicycle 
+
+# Equestrian Crossing
+Same as puffin crossing with sensors to check if someone is walking but for horses. The button is higher than pelican crossing
+
+---
+
+## Road markings
+
+Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
+
+Long white lines in the middle of the road (long dashes with short gaps) warn of a hazard ahead such as a junction or sharp bend ahead 
+
+### Get Back To The Left As Soon As It's Safe To Do So
+![Get back to the left as soon as its safe to do so](images/get-back-to-the-left.png)
+
+---
+
 ## No Waiting
 ![No Waiting](images/no-waiting.png)
 

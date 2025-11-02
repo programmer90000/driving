@@ -144,3 +144,5 @@
     * For burns: **Cool with running water for 20 minutes**.
     * For a suspected broken bone: **Support it, do not move it**.
     * **Always call 999/112** for a serious incident. If unsure, it's better to call.
+
+> **It isn't allowed to offer food or drink at an incident**
