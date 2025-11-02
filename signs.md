@@ -100,10 +100,10 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ![Humps For Number Of Miles](images/humps-for-distance.gif)
 
 ## Roundabout
-![Roundabout](images/roundabout.png)
+![Roundabout](images/roundabout.jpg)
 
 ## Mini Roundabout
-![Mini Roundabout]
+![Mini Roundabout](images/mini-roundabout.jpg)
 
 ## Slippery Roads
 ![Slippery Roads](images/slippery-road.jpg)
