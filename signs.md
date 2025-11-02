@@ -102,6 +102,18 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ## Mini Roundabout
 ![Mini Roundabout]
 
+## Slippery Roads
+![Slippery Roads]
+
+## Side Winds
+![Side Winds]
+
+## Qeues Likely
+![Qeues Likely]
+
+## Low Flying Aircraft
+![Low Flying Aircraft]
+
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
