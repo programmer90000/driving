@@ -10,6 +10,7 @@
 
 **Octagon** = STOP sign
 
+---
 
 With Flow means traffic is going with the flow. Contraflow means traffic is going against the flow
 
