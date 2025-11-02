@@ -95,3 +95,46 @@ It is only allowed to flash your headlights to warn other drivers of your presen
 ### Brake Lights
 
 ![Brake Lights](images/brake-lights.jpg)
+
+## Police
+
+### Police Hand Signals
+
+Police officers may use hand signals to control traffic when traffic lights are not working or in special situations:
+
+#### Stop Signal
+- Officer faces your vehicle with arm raised and palm facing you
+- You must stop and wait for further instructions
+
+#### Proceed Straight Ahead
+- Officer faces your vehicle with both arms extended sideways
+- You may proceed straight through the intersection
+
+#### Turn Left/Right
+- Officer faces your vehicle with one arm extended sideways in your direction of travel
+- You may turn in the direction indicated
+
+#### Slow Down
+- Officer faces your vehicle with one arm raised and moving up and down
+- Reduce your speed and be prepared to stop
+
+### Police Signalling You to Stop
+
+When a police vehicle wants you to pull over:
+
+#### Recognizing the Signal
+- Flashing blue lights, headlights, or flashing headlights
+- Sometimes accompanied by sirens
+- Police officer may point or gesture for you to pull over
+
+### Safe Procedure
+1. **Acknowledge** - Turn on your left indicator to show you've seen them
+2. **Find safe place** - Pull over when and where it's safe to do so
+3. **Stop** - Apply the handbrake and turn off your engine
+4. **Wait** - Remain in your vehicle unless instructed otherwise
+5. **Cooperate** - Follow instructions and be polite
+
+### What to Expect
+- Officer will explain why you were stopped
+- You may be asked for your driving license, insurance, and MOT certificate
+- You may receive advice, a warning, or a fixed penalty notice
