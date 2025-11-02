@@ -1,9 +1,5 @@
 # Vehicle Handling - Theory Test Notes
 
-**Important:** These notes are for passing the theory test, not a practical driving guide. The test assesses your knowledge of principles, safety, and the Highway Code.
-
----
-
 ## 1. Braking
 
 ### Key Principles for the Test:
