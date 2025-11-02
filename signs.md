@@ -85,7 +85,7 @@ Variable Message signs are signs which are displayed digitally, meaning the mess
 ![No Motor Viechles](images/no-motor-viecheles.png)
 
 ## No Overtaking
-![No Overtaking]
+![No Overtaking](images/no-overtaking.jpg)
 
 ## Road Narrows On Both Sides
 ![Road Narrows On Both Sides](images/road-narrows-on-both-sides.png)
