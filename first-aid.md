@@ -113,7 +113,7 @@
 ## The Recovery Position
   This is for an unconscious casualty who is breathing normally. It keeps the airway clear and open.
 
-    1. Kneel beside them. Remove their glasses and any bulky items from their pockets.
+  1. Kneel beside them. Remove their glasses and any bulky items from their pockets.
     2. Place the arm nearest to you at a right angle to their body, elbow bent, palm facing up.
     3. Bring the far arm across their chest and hold the back of their hand against their near cheek.
     4. With your other hand, grasp the far leg just above the knee and pull it up, keeping the foot flat on the ground.
