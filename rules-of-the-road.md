@@ -104,10 +104,12 @@ Police officers may use hand signals to control traffic when traffic lights are 
 
 #### Stop Traffic Approaching from the Front
 The officer raises one hand with the palm facing the traffic, signaling vehicles to stop.
+
 ![stop-traffic-approaching-from-the-front](images/stop-traffic-approaching-from-the-front.jpg)
 
 #### Stop Traffic Approaching from Both Front and Behind
 The officer raises both hands with palms facing the traffic from both directions, indicating that vehicles from both sides should stop.
+
 ![stop-traffic-approaching-from-the-front-and-back](images/stop-traffic-approaching-from-the-front-and-back.jpg)
 
 #### Stop Traffic Approaching from Behind
@@ -117,14 +119,17 @@ The officer raises one hand with the palm facing the traffic coming from behind,
 
 #### Beckon Traffic On from the Side
 The officer uses a waving motion with the arm to signal vehicles to proceed.
+
 ![allow-traffic-approaching-from-the-side-to-go](images/allow-traffic-from-the-side.jpg)
 
 #### Beckon Traffic On from the Front
 The officer uses a waving motion with the arm to signal vehicles to proceed from the front.
+
 ![allow-traffic-approaching-from-the-front-to-go](images/allow-traffic-from-the-front.jpg)
 
 #### Beckon Traffic On from Behind
 The officer uses a waving motion with the arm to signal vehicles to proceed from behind.
+
 ![allow-traffic-approaching-from-the-back-to-go](images/allow-traffic-from-the-back.jpg)
 
 ### Police Signalling You to Stop
