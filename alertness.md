@@ -7,7 +7,7 @@
 - **Avoid distractions** - even a brief lapse in concentration can cause an accident
 
 ## 2. Major Distractions
-- **Mobile phones** - illegal to hold or use while driving (emergency calls only when safely parked)
+- **Mobile phones** - illegal to hold or use while driving
 - **In-car systems** - sat nav, radio, climate control (set before driving)
 - **Passengers** - especially children or animated conversations
 - **Eating/drinking** - takes your attention away from the road
