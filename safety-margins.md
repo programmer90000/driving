@@ -98,9 +98,13 @@
 
 ### Increasing the Gap
   You should **at least double** the two-second rule in the following conditions:
+
     * In **wet weather** -> Use the **four-second rule**.
+
     * In **icy or snowy weather** -> Use an even larger gap (up to twenty seconds).
+
     * When **riding a motorcycle** (to protect yourself).
+
     * When driving a **large vehicle** (as it takes longer to stop).
 
 ### When Being Overtaken
