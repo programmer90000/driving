@@ -62,7 +62,7 @@
 ## 10. Following Distance
 - **Use the two-second rule** in good conditions
 - **Double to four seconds** in wet weather
-- **Increase to twenty seconds** in icy conditions
+- **Increase to twenty seconds** in icy conditions (x10 the distance in dry conditions)
 
 ## 11. Weather Conditions
 - **Use headlights** in poor visibility
