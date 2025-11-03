@@ -103,7 +103,7 @@
 
   * In **icy or snowy weather** -> Use an even larger gap (up to twenty seconds).
 
-    * When **riding a motorcycle** (to protect yourself).
+  * When **riding a motorcycle** (to protect yourself).
 
   * When driving a **large vehicle** (as it takes longer to stop).
 
