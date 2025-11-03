@@ -52,14 +52,14 @@
   Shock is a life-threatening condition where vital organs don't get enough oxygenated blood.
 
   * **Causes:** Severe bleeding, burns, heart attack, etc.
-    * **Signs/Symptoms:** Pale, cold, clammy skin; rapid, weak pulse; fast, shallow breathing; feeling weak, dizzy, or nauseous; thirst.
-    * **Treatment:**
-        1. Treat the cause (e.g., severe bleeding).
-        2. Lay the casualty down. Raise and support their legs (unless you suspect a broken leg).
-        3. Keep them warm with a coat or blanket, but **do not** give them any source of direct heat.
-        4. Loosen tight clothing around the neck, chest, and waist.
-        5. **Do not** give them anything to eat or drink.
-        6. Reassure them and call 999.
+  * **Signs/Symptoms:** Pale, cold, clammy skin; rapid, weak pulse; fast, shallow breathing; feeling weak, dizzy, or nauseous; thirst.
+  * **Treatment:**
+    1. Treat the cause (e.g., severe bleeding).
+    2. Lay the casualty down. Raise and support their legs (unless you suspect a broken leg).
+    3. Keep them warm with a coat or blanket, but **do not** give them any source of direct heat.
+    4. Loosen tight clothing around the neck, chest, and waist.
+    5. **Do not** give them anything to eat or drink.
+    6. Reassure them and call 999.
 
 ---
 
