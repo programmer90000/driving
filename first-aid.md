@@ -50,6 +50,7 @@
 
 ### Treatment for Shock
   Shock is a life-threatening condition where vital organs don't get enough oxygenated blood.
+
     * **Causes:** Severe bleeding, burns, heart attack, etc.
     * **Signs/Symptoms:** Pale, cold, clammy skin; rapid, weak pulse; fast, shallow breathing; feeling weak, dizzy, or nauseous; thirst.
     * **Treatment:**
