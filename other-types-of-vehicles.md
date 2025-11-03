@@ -43,7 +43,7 @@
 - **Overtake**: Only when safe and legal to do so
 
 ## 8. Key Rules for All Large Vehicles
-- **Don't tailgate** - you can't see the road ahead
+- **Don't tailgate (Follow them closely)** - you can't see the road ahead
 - **Be patient** - they need more time to manoeuvre
 - **Anticipate stops** - they may need to stop suddenly
 - **Watch for signals** - indicators may come on well before they turn
