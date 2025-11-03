@@ -33,7 +33,6 @@
 - **70 mph** for cars and motorcycles
 - **60 mph** for cars towing trailers
 - **Variable speed limits** shown on overhead signs are legally enforceable
-- **Red X** above lane means lane closed - move out immediately
 
 ## 6. Smart Motorways
 - **Hard shoulder** may be used as running lane when shown by speed limit sign
