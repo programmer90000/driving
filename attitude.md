@@ -9,7 +9,7 @@
 ## 2. Aggressive Driving (Road Rage)
 - **Never react** to aggression from other drivers
 - **Don't make eye contact** with aggressive drivers
-- **Don't tailgate** - it intimidates other drivers
+- **Don't tailgate (Drive to close to the vehicle in front)** - it intimidates other drivers
 - **Avoid flashing headlights** to show annoyance
 - **Don't use the horn** aggressively
 - **Stay calm** and focused on safe driving
