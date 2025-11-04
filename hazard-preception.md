@@ -59,7 +59,7 @@ This is the earliest sign that a situation might develop into a hazard. You are 
   · You see a car waiting to pull out from a side road ahead.
   · You see a cyclist ahead in the distance.
 
-Stage 2: The Developing Hazard (The "Click Zone")
+## Developing Hazard
 
 This is the critical stage where the potential hazard starts to become a real one. It's the point where you, as a driver, would need to begin to take action (e.g., lift off the accelerator, cover the brake, or check your mirrors).
 
@@ -71,7 +71,7 @@ This is the critical stage where the potential hazard starts to become a real on
   · The car in the side road begins to pull out in front of you.
   · The cyclist ahead starts to swerve to avoid a pothole.
 
-Stage 3: The Actual Hazard / Point of No Return
+## Actual Hazard
 
 This is the final stage where the hazard is fully realized, and you must take definitive action to avoid a collision (e.g., brake firmly or steer away).
 
@@ -85,17 +85,24 @@ This is the final stage where the hazard is fully realized, and you must take de
 
 ---
 
-Putting It All Together: A Practical Example
+# A Practical Example
 
 Scenario: Approaching a parked van on a residential street.
 
-1. Stage 1 (Potential Hazard): You see the parked van on your side of the road. You also notice shadows of people moving on the pavement behind it.
+## Potential Hazard
+
+You see the parked van on your side of the road. You also notice shadows of people moving on the pavement behind it.
    · Your Thought: "There might be someone behind that van."
    · Action: No click. You simply observe and prepare by easing off the accelerator slightly.
-2. Stage 2 (Developing Hazard - CLICK NOW): A person suddenly steps out from in front of the van into the road, trying to cross.
+
+## Developing Hazard - CLICK NOW
+
+A person suddenly steps out from in front of the van into the road, trying to cross.
    · Your Thought: "They are stepping into my path! I need to brake."
    · Action: Click immediately. This is the moment the situation changes from potential to actual risk requiring your action.
-3. Stage 3 (Actual Hazard): The person is now fully in your lane, and you are braking firmly to avoid them.
+
+## Actual Hazard
+The person is now fully in your lane, and you are braking firmly to avoid them.
    · Your Thought: "Emergency stop!"
    · Action: If you are only clicking now, it's too late to score high points.
 
