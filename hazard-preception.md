@@ -47,17 +47,12 @@ I need to click when anything will cause me to:
 
 # Stages of a hazard
 
-
-
-
-
-
-Stage 1: The Potential Hazard (The Early Clue)
+## Potential Hazard
 
 This is the earliest sign that a situation might develop into a hazard. You are observing and gathering information.
 
 · What it is: Something that is not yet a direct threat but has the potential to become one.
-· Your Action: Do NOT click at this stage. Simply register the information and prepare for what might happen next.
+· Your Action: Do **NOT** click at this stage. Simply register the information and prepare for what might happen next.
 · Examples:
   · You see a ball roll into the road from behind a parked car.
   · You see a pedestrian standing on the pavement looking at their phone, not the road.
