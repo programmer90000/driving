@@ -106,7 +106,7 @@ The person is now fully in your lane, and you are braking firmly to avoid them.
    · Your Thought: "Emergency stop!"
    · Action: If you are only clicking now, it's too late to score high points.
 
-The Scoring System Explained
+# The Scoring System Explained
 
 The test uses a sliding scale of 0 to 5 points per hazard clip:
 
@@ -115,8 +115,6 @@ The test uses a sliding scale of 0 to 5 points per hazard clip:
 · 1-2 points: You click very late in the developing stage or at the very start of the actual hazard.
 · 0 points: You click too late (in Stage 3), or you click during the potential hazard stage (Stage 1) or randomly/multiple times in quick succession (which can flag you as cheating).
 
-Key Tips for Success
+## Key Tips for Success
 
 · Click for the Change: Don't click for every car or pedestrian you see. Click when their status changes in a way that affects you (e.g., they start to move into your path).
-· Practice with Purpose: Use official practice software (like the DVSA's) to get a feel for the timing. Watch the clips and verbalize what you see: "Van parked... pedestrian behind it... CLICK... they're stepping out!"
-· Avoid "Click-Spamming": The software detects if you are clicking repeatedly or in a pattern. This will result in a zero for that clip. A couple of thoughtful clicks per hazard is the best approach.
