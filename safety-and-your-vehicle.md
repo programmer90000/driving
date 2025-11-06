@@ -39,8 +39,18 @@
 
 ---
 
-### What measures can you take to discourage a thief from stealing your vehicle?
+## What measures can you take to discourage a thief from stealing your vehicle?
 
 Etching the registration number on the windows
 
 This is because it makes the vehicle easy to identify.
+
+---
+
+## Catalytic Converter
+
+A catalytic converter is an exhaust emission control device that converts toxic gases and pollutants in exhaust gas into less harmful pollutants by means of a chemical reaction. 
+
+it is located in the exhaust system, between the engine (where the exhaust gases are created) and the muffler or silencer (which reduces noise), closer to the engine.
+
+It barely works when the engine is cold. Because of this, it is close to the engine so the high exhaust temperatures cause it to work efficiently.
