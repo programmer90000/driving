@@ -152,3 +152,9 @@ When a police vehicle wants you to pull over:
 - Officer will explain why you were stopped
 - You may be asked for your driving license, insurance, and MOT certificate
 - You may receive advice, a warning, or a fixed penalty notice
+
+## Difference between a motorway and dual carriageway
+
+Both a motorway and dual carriageway can have any number of lanes. Both a motorway and a dual carriageway have a barrier separating the 2 directions of traffic.
+
+On a motorway, you need a motor vehicle. On a dual carriageway, you can use a pedal bike
