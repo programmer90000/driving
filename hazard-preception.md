@@ -88,3 +88,5 @@ The test uses a sliding scale of 0 to 5 points per hazard clip:
 ## Key Tips for Success
 
 - Click for the Change: Don't click for every car or pedestrian you see. Click when their status changes in a way that affects you (e.g., they start to move into your path).
+
+- Pay attention to brake lights and turn signals
