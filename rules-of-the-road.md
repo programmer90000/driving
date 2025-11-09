@@ -71,12 +71,12 @@
 ## Types Of Roads
 
 ### Single Carriageway Road 
-A road in which traffic from both sides share the same stretch of pavement, without a pavement, such as Manchester Road
+A road in which traffic from both sides share the same stretch of pavement, without a barrier, such as Manchester Road
 
 ![Single Carrigeway Road](images/single-carrigeway-road.jpg)
 
 ### Dual Carriageway Road 
-A road in which traffic from opposite directions is separated by something in the middle, such as a barrier. For example, a motorway
+A road in which traffic from opposite directions is separated by something in the middle, such as a barrier, similar a motorway
 ![Dual Carrigeway Road](images/dual-carrigeway-road.jpg)
 
 ## Lights
