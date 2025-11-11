@@ -15,6 +15,8 @@ I need to click when anything will cause me to:
 - Slow down
 - Change direction
 
+I need to click 2 or 3 times per hazard with a couple of seconds pause. Do **not** click more than 3 times
+
 # Stages of a hazard
 
 ## Potential Hazard
