@@ -166,6 +166,9 @@ Long white lines in the middle of the road (long dashes with short gaps) warn of
 ## Low Flying Aircraft
 ![Low Flying Aircraft](images/low-flying-aircraft.jpg)
 
+## Variable Message Sign
+![Variable Message Sign](images/variable-message-sign.jpg)
+
 # Questions About Arm Signals
 
 ## Turn Left Arm Signal
