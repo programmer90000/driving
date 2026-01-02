@@ -8,5 +8,5 @@
 
 # Similar Signs - 2
 
-## Level Crossing Without Gate Or Barrier
+## Level Crossing With Gate Or Barrier
 ![Level crossing with gate or barrier](./images/level-crossing-with-barrier.jpg)
