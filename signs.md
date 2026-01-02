@@ -61,7 +61,9 @@ A bridge which is narrow and wide viechles can't go inside
 ## Crossings
 
 ### Pelican Crossing
-Traffic Lights with buttons to make the lights red. After the red light, there is flashing amber lights 
+Traffic Lights with buttons to make the lights red. After the red light, there is flashing amber lights
+
+> Pelican Crossings are the only crossings with flashing amber lights
 
 ## Puffin Crossing
 Same as pelican crossing but with sensors to detect if someone is walking, instead of flashing amber lights
