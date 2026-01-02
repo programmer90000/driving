@@ -74,6 +74,10 @@ Same as puffin crossing with sensors to check if someone is walking but for hors
 
 ---
 
+A ring road is a road in which, if you don't turn right or left but instead continue driving straight on the road, you will end up in the place you started
+
+---
+
 ## Road markings
 
 Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
