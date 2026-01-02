@@ -61,6 +61,7 @@
 - **Stop line** (thick solid line): Must stop completely
 - **Give way line** (broken triangles): Give way to traffic on major road
 - **Box junctions** (yellow criss-cross): Don't enter unless your exit is clear
+> The wording `Wait in the box junction if your exit is clear`
 - **Zig-zag lines**: No stopping, no overtaking
 
 ### 11. Traffic Officers
