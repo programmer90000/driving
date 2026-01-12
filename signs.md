@@ -84,7 +84,9 @@ A ring road is a road in which, if you don't turn right or left but instead cont
 
 Normal broken lines in the middle of the road (short dashes with long gaps) are used to divide traffic
 
-Long white lines in the middle of the road (long dashes with short gaps) warn of a hazard ahead such as a junction or sharp bend ahead 
+Long white lines in the middle of the road (long dashes with short gaps) warn of a hazard ahead such as a junction or sharp bend ahead
+
+A solid white line means don't cross the line
 
 ### Get Back To The Left As Soon As It's Safe To Do So
 ![Get back to the left as soon as its safe to do so](images/get-back-to-the-left.png)
