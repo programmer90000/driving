@@ -36,6 +36,13 @@
 8. Let go of the parking brake
 9. Turn off the engine
 
+# Routine before doing anythin
+1. Mirrors
+2. Position
+3. Signal
+4. Looking and slowing accordingly
+5. Correct gear
+
 # Changing gears
 - To change gears, push the clutch down quickly. Bring it up slowly
 - When going up a gear, go directly into that gear unless I am changing from gear 3 or 4
