@@ -18,3 +18,9 @@
 10. Begin to press the accelerator and let go of the clutch
 11. Steer smoothly to enter the lane or the flow of traffic
 16. Cancel the turn signal
+
+## How to stop the car temporarily
+1. Let go of the gas pedal
+2. Press the clutch pedal fully. Slowly press the brake pedal until the car stops
+3. If it is downhill, use the brake to hold the car
+4. If it is uphill, use the clutch to hold the car
