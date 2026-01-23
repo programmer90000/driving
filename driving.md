@@ -36,10 +36,10 @@
 8. Let go of the parking brake
 9. Turn off the engine
 
-# Routine before doing anythin
+# Routine before doing anything
 1. Mirrors
-2. Position
-3. Signal
+2. Signal
+3. Position
 4. Looking and slowing accordingly
 5. Correct gear
 
