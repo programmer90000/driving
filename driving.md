@@ -19,13 +19,13 @@
 11. Steer smoothly to enter the lane or the flow of traffic
 16. Cancel the turn signal
 
-## How to stop the car temporarily
+# How to stop the car temporarily
 1. Let go of the gas pedal
 2. Press the clutch pedal fully. Slowly press the brake pedal until the car stops
 3. If it is downhill, use the brake to hold the car
 4. If it is uphill, use the clutch to hold the car
 
-## How to park the car
+# How to park the car
 1. Let go of the gas
 2. If the car doesn't stop on its own, press the brake slightly
 3. Once the car has stopped, keep my foot on the brake
@@ -35,3 +35,25 @@
 7. Move the gearstick to neutral
 8. Let go of the parking brake
 9. Turn off the engine
+
+# Changing gears
+- To change gears, push the clutch down quickly. Bring it up slowly
+- When going up a gear, go directly into that gear unless I am changing from gear 3 or 4
+- When I go down a gear, go into neutral first
+
+# Uphill/ Downhill car control
+- When going downhill, use the break to control the car
+- When going uphill, use the clutch to control the car
+
+# Car Controls Locations
+- Signalling up/down is left of the wheel
+- Wipers are right side of the wheel
+
+# Signal Directions
+- Signalling up is right
+- Signalling down is left
+
+# Other information
+- When I pick up the clutch a little bit when starting the car, it is called the biting point
+- Stay a cm away from the kerb while driving
+- Before doing anything, I need to check the mirrors and blind spot
