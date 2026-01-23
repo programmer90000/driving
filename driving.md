@@ -24,3 +24,14 @@
 2. Press the clutch pedal fully. Slowly press the brake pedal until the car stops
 3. If it is downhill, use the brake to hold the car
 4. If it is uphill, use the clutch to hold the car
+
+## How to park the car
+1. Let go of the gas
+2. If the car doesn't stop on its own, press the brake slightly
+3. Once the car has stopped, keep my foot on the brake
+4. If it is downhill, use the brake to hold the car while parking
+5. If it is uphill, use the clutch to hold the car while parking
+6. Put the handbrake up
+7. Move the gearstick to neutral
+8. Let go of the parking brake
+9. Turn off the engine
