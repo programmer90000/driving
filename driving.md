@@ -1,3 +1,8 @@
+# Before Driving
+- Make sure that the windows are clean
+- Test all of the lights
+- Test all of the pedals
+
 # How to enter the car
 1. Push the seat forward or backwards until I am in a good position
 2. Fasten the seatbelt
