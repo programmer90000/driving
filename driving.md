@@ -4,11 +4,16 @@
 - Test all of the pedals
 
 # How to enter the car
-1. Push the seat forward or backwards until I am in a good position
-2. Fasten the seatbelt
-3. Make sure the gearstick is in neutral
-5. Make sure the handbrake is up
-4. Adjust the mirrors. I should be able to see almost all of the back window from the main mirror. I should be able to see the car handles and the road from the side mirrors
+1. Make sure the doors are closed
+2. Make sure the seat is adjusted so that I can fully press all of the pedals without stretching
+3. Make sure the seat is adjusted so that the back rest is in a comfortable place
+4. Make sure the seat height is set so that my eyes are level with the centre of the windscreen
+5. Make sure the headrest is set so that the middle of the headrest is level with the middle of my head
+6. Adjust the steering wheel so that I can see all of the dashboard and I can see all of the windscreen. Move it forward/ backward do that there is a slight bend in my arm
+7. Make sure that the entirety of the seatbelt is flat and not twisted
+8. Put the seatbelt on
+9. Adjust the centre mirror by putting 2 fingers outside the mirror. Ensure I can see all of the back mirror or as much as possible
+10. Adjust both side mirrors so that I can see both door handles on the inside of it and I can see trees on the top half of the mirror
 
 # How to start the car
 1. Look in all of the mirrors and blind spot
