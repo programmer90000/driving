@@ -1,0 +1,6 @@
+- Check the engine oil level
+- Check the engine coolant
+- Check the brake fluid reservoir
+- Check the windscreen washer fluid level
+- Check the battery is working
+- Check the tires are correct
