@@ -70,6 +70,14 @@
 - Signalling up is right
 - Signalling down is left
 
+# How to prevent stalling
+- Apply enough gas before releasing the clutch pedal when starting driving or driving at a slow speed
+- Do not release the clutch suddenly, release it slowly
+- Don't move off from still in too high a gear
+- When slowing the car down and the car makes noise, press the clutch down fully
+- Use the clutch to begin moving the car, not gas
+- Use the handbrake and clutch to begin moving the car on a hill
+
 # Other information
 - When I pick up the clutch a little bit when starting the car, it is called the biting point
 - Stay a cm away from the kerb while driving
