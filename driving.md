@@ -82,6 +82,10 @@ Before setting off, look in all of the mirrors and blind spots which provide inf
 - Use the clutch to begin moving the car, not gas
 - Use the handbrake and clutch to begin moving the car on a hill
 
+# Parking
+- Don't park in front of dropped curbs
+- Don't park close to a fire hydrant or a symbol of a fire hydrant, or a yellow stripe on the pavement indicating a fire hydrant
+
 # Other information
 - When I pick up the clutch a little bit when starting the car, it is called the biting point
 - Stay a cm away from the kerb while driving
