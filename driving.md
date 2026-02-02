@@ -29,6 +29,10 @@
 11. Steer smoothly to enter the lane or the flow of traffic
 16. Cancel the turn signal
 
+# How to set off
+
+Before setting off, look in all of the mirrors and blind spots which provide information. This is different in different locations. For example, if the right mirror only shows the street, and I am moving off, I don't need to check the right mirror or blind spot
+
 # How to stop the car temporarily
 1. Let go of the gas pedal
 2. Press the clutch pedal fully. Slowly press the brake pedal until the car stops
