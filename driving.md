@@ -85,6 +85,7 @@ Before setting off, look in all of the mirrors and blind spots which provide inf
 # Parking
 - Don't park in front of dropped curbs
 - Don't park close to a fire hydrant or a symbol of a fire hydrant, or a yellow stripe on the pavement indicating a fire hydrant
+- Aim to park 5 cm from the curb
 
 # Other information
 - When I pick up the clutch a little bit when starting the car, it is called the biting point
