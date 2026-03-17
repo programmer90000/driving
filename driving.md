@@ -87,6 +87,21 @@ Before setting off, look in all of the mirrors and blind spots which provide inf
 - Don't park close to a fire hydrant or a symbol of a fire hydrant, or a yellow stripe on the pavement indicating a fire hydrant
 - Aim to park 5 cm from the curb
 
+# Signalling at a roundabout
+
+## Signalling at a single-lane roundabout
+
+Signal right when exiting the roundabout
+
+## Signalling at a multi-lane roundabout
+
+| Exiting        | Signal |
+| Right          | Position in the right lane. Signal right on approach to the roundabout. Keep the signal on until you exit |
+| Straight Ahead | Position in any lane. Do not signal on approach. Signal right to exit the roundabout |
+| Left     | Position in the left lane. Signal left on approach. Signal right to exit the roundabout |
+| U-Turn   | Position in the left lane. Signal left on approach. Signal right to exit |
+
+
 # Other information
 - When I pick up the clutch a little bit when starting the car, it is called the biting point
 - Stay a cm away from the kerb while driving
