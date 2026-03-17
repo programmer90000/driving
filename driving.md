@@ -91,3 +91,4 @@ Before setting off, look in all of the mirrors and blind spots which provide inf
 - When I pick up the clutch a little bit when starting the car, it is called the biting point
 - Stay a cm away from the kerb while driving
 - Before doing anything, I need to check the mirrors and blind spot
+- I need to ensure I'm in the correct gear at the end of a manoeuvre
