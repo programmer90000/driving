@@ -95,11 +95,12 @@ Signal right when exiting the roundabout
 
 ## Signalling at a multi-lane roundabout
 
-| Exiting        | Signal |
-| Right          | Position in the right lane. Signal right on approach to the roundabout. Keep the signal on until you exit |
-| Straight Ahead | Position in any lane. Do not signal on approach. Signal right to exit the roundabout |
-| Left     | Position in the left lane. Signal left on approach. Signal right to exit the roundabout |
-| U-Turn   | Position in the left lane. Signal left on approach. Signal right to exit |
+| Exiting        | Instructions                                                                                                                                                   |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Right          | Position in the right lane. Signal right on approach to the roundabout. Keep the signal on until you exit.                                                    |
+| Straight Ahead | Position in any lane. Do not signal on approach. Signal right to exit the roundabout.                                                                          |
+| Left           | Position in the left lane. Signal left on approach. Signal right to exit the roundabout.                                                                       |
+| U-Turn         | Position in the left lane. Signal left on approach. Signal right to exit.                                                                                      |
 
 
 # Other information
