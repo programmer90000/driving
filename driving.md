@@ -61,6 +61,7 @@ Before setting off, look in all of the mirrors and blind spots which provide inf
 - To change gears, push the clutch down quickly. Bring it up slowly
 - When going up a gear, go directly into that gear unless I am changing from gear 3 or 4
 - When I go down a gear, go into neutral first
+- After changing gears, bring the clutch up to biting point, leave it there for a couple of seconds, then slowly press the accelerator and lift the clutch up fully
 
 # Uphill/ Downhill car control
 - When going downhill, use the break to control the car
