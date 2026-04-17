@@ -1,0 +1,17 @@
+> Write this as an ordered list
+# Things that need to be done each time before driving
+- Make sure all of the doors are closed completely
+- Make sure the seat is set so I can comfortably push the pedals fully with a small bend in my knees
+- Make sure the back of the seat is set so I am relaxed
+- Make sure the middle of my head is set to the middle of the headrest
+- Adjust the steering wheel position so that I can see the dashboard and that there is a small bend in my arm
+- Make sure the seat height is set so that my eyes are in the windscreen
+- Make sure the windows, wind screen and mirrors are clear
+- Make sure the pedals are working
+- Make sure all of the exterior lights are working
+- Make sure the seatbelt is flat and not twisted
+- There are other safety checks which need to be performed before driving, which are specific to each car. The vehicles handbook explains these
+- Adjust the centre mirror. Use the thumb and index mirror on the edges of the mirror. Don't touch the mirror to avoid fingerprint marks. Adjust it so that I can see the whole of the back window. I should be able to see the driver headrest from the window
+- Adjust the door mirrors. From both mirrors, I should be able to see a little bit of the car. I should be able to see the pavement from the bottom half of the mirror. I should be able to see the sky from the top half of the mirror
+- Make sure the handbrake is fully up
+- Make sure the gearstick is in netural
